@@ -578,12 +578,6 @@ align-items: center;
 text-align: left;
 justify-content: flex-start;
 }
-.phone-no{
-   /* margin-left: -283px; */
-}
-.gmail{
-   /* margin-left:-77px ; */
-}
 .phone-no i,.gmail i,.git i{
    color: red;
 }
@@ -615,18 +609,10 @@ justify-content: flex-start;
    text-shadow: 0 0 10px rgb(255, 17, 17),
    0 0 10px rgb(255, 63, 5);
  }
- /* .git{
-   position: relative;
-   margin-left: 20px;
- } */
  .git a{
    text-decoration: none;
    color: white;
  }
- /* .fa-github{
-top: 4px;
-left: 0px;
- } */
  .download{
    height: 50px;
    margin-top: 29px;
